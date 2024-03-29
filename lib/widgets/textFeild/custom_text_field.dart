@@ -16,6 +16,7 @@ class CustomTextField extends StatelessWidget {
     this.validator,
     this.prefix,
     this.hintColor,
+
     this.text,
     this.isRegister,
     this.isSearch,
